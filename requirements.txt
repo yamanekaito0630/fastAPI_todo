@@ -1,0 +1,5 @@
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+sqlalchemy
+pymysql
+python-multipart==0.0.9
